@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/zjy/work/cpp_demo/zjy/zjy.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/Users/zjy/work/cpp_demo/zjy/zjy.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/zjy/work/cpp_demo/zjy/414/main.cpp" Name="FileName"/>
+      <int Value="9" Name="FirstVisibleLine"/>
+      <int Value="31" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/zjy/work/cpp_demo/zjy/415/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="11" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/zjy/work/cpp_demo/zjy/427/main.cpp" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="21" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/zjy/work/cpp_demo/zjy/Account/Account.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/zjy/work/cpp_demo/zjy/Time/main.cpp" Name="FileName"/>
+      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="39" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

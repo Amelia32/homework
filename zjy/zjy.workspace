@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="张佳翌" Database="" Version="10.0.0">
+  <Project Name="Time" Path="Time/Time.project" Active="No"/>
+  <Project Name="414" Path="414/414.project" Active="No"/>
+  <Project Name="415" Path="415/415.project" Active="Yes"/>
+  <Project Name="427" Path="427/427.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="Time" ConfigName="Debug"/>
+      <Project Name="414" ConfigName="Debug"/>
+      <Project Name="415" ConfigName="Debug"/>
+      <Project Name="427" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="414" ConfigName="Release"/>
+      <Project Name="Time" ConfigName="Release"/>
+      <Project Name="415" ConfigName="Release"/>
+      <Project Name="427" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="zhangjiayi" Selected="yes">
+      <Environment/>
+      <Project Name="414" ConfigName="Release"/>
+      <Project Name="Time" ConfigName="Release"/>
+      <Project Name="415" ConfigName="Debug"/>
+      <Project Name="427" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
